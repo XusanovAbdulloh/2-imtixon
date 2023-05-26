@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "3e97ed30-d5e4-4ccf-8035-43d9a0a31f18",
+      "firstName": "Abdulloh",
+      "lastName": "Xusanovv",
+      "email": "abu8@gmail.com",
+      "password": "$2b$08$WS3zQLY3qPO1ywWZfxzr2OzjCIJkG38nkZvWbwScRzrlje35od9ZW",
+      "role": "superAdmin"
+    },
+    {
+      "id": "aa5ba368-f12b-46b3-8c67-c545af0f06ee",
+      "firstName": "Abuuuu",
+      "lastName": "Xusanov",
+      "email": "abu888@gmail.com",
+      "password": "$2b$08$c9RcwJmWhw2E1t.wrfCyrey/FiDij51PELtjOPlObBgM./P/b1do.",
+      "role": "admin"
+    },
+    {
+      "id": "cbde10cb-4a04-4e12-85c4-18249a8d5677",
+      "firstName": "Salom",
+      "lastName": "hello",
+      "email": "abu444@gmail.com",
+      "password": "$2b$08$NPRJwDNxi5KZXeIoL8PsfetX/66Mlf7Dt3BuJVXIfc7ZqeiiffwPq",
+      "role": "customer"
+    },
+    {
+      "id": "620799e8-9ece-43a1-a342-a514a1bcd03d",
+      "firstName": "Abdulloh",
+      "lastName": "Xusanov",
+      "email": "abu1111@gmail.com",
+      "password": "$2b$08$.pxz.gTIVvjLxrJ9hTsOO.nC7dEVPdMM7fLD3U.kZq.ZsuJ1d7sde",
+      "role": "admin"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "gegrafiya",
+      "authorId": 1,
+      "category": "maktab"
+    },
+    {
+      "id": "75b4e555-915f-44d8-9eb8-9d62db921944",
+      "title": "sher",
+      "authorId": 2,
+      "category": "ertaklar"
+    },
+    {
+      "id": "cd7d111b-6b7c-4afe-85d2-cb0822ac11ca",
+      "title": "ALISHER Navoiy",
+      "authorId": 3,
+      "category": "badiy"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Talim vazirligi"
+    },
+    {
+      "id": 2,
+      "name": "Ertakchi"
+    },
+    {
+      "id": 3,
+      "name": "Ensiklopediyachi"
+    },
+    {
+      "id": 4,
+      "name": "test"
+    }
+  ]
+}
